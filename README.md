@@ -6,8 +6,8 @@ The reference books I am following are,
 2. Teach yourself C++ by Schildt
 
 
-Use g++ -o executable_name codefilename.cpp to compile the code
-and then use ./executable_name to run the code.
+Use `g++ -o executable_name codefilename.cpp` to compile the code
+and then use `./executable_name` to run the code.
 
 Codes Names and Purpose:
 
